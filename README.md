@@ -1,1 +1,1 @@
-An example of my work in Java from this past semester. Thank you for your interest!
+Program to track customers and service plans for an auto repair shop. Example of one of my early Java projects and unit test programming.
